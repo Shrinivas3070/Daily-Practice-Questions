@@ -12,3 +12,15 @@ A collection of my daily coding practice problems and solutions.
 
 Track your daily progress here.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+<!---LeetCode Topics End-->
