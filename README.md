@@ -18,6 +18,7 @@ Track your daily progress here.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 ## Two Pointers
@@ -37,4 +38,12 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
