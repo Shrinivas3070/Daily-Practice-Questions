@@ -28,6 +28,7 @@ Track your daily progress here.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Track your daily progress here.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
