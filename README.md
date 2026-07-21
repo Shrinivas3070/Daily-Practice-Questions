@@ -53,4 +53,12 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
