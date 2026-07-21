@@ -26,6 +26,7 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -34,6 +35,7 @@ Track your daily progress here.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -47,4 +49,8 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
