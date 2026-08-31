@@ -54,6 +54,7 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
