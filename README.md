@@ -58,10 +58,16 @@ Track your daily progress here.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
