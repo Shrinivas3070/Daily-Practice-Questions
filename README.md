@@ -46,6 +46,7 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Track your daily progress here.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -70,4 +72,8 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
