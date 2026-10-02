@@ -26,6 +26,7 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -54,6 +55,7 @@ Track your daily progress here.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
