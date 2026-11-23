@@ -25,6 +25,7 @@ Track your daily progress here.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@ Track your daily progress here.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 ## Merge Sort
@@ -55,6 +57,7 @@ Track your daily progress here.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0075-sort-colors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
