@@ -74,6 +74,7 @@ Track your daily progress here.
 | [0189-rotate-array](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0724-find-pivot-index) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
@@ -110,4 +111,8 @@ Track your daily progress here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
