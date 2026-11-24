@@ -32,6 +32,7 @@ Track your daily progress here.
 | [0088-merge-sorted-array](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Track your daily progress here.
 | [0088-merge-sorted-array](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shrinivas3070/Daily-Practice-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
